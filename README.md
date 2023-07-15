@@ -13,3 +13,8 @@ Bcrypt
 Body parser
 Cookie session
 # Screenshots
+!["Screenshot of LightBnB page for creating new listing "](https://github.com/workuseifu1/LightBnB/blob/master/imgs/create-new-listing.png)
+!["Screenshot of LightBnB "](https://github.com/workuseifu1/LightBnB/blob/master/imgs/img2.png)
+!["Screenshot of LightBnB "](https://github.com/workuseifu1/LightBnB/blob/master/imgs/img3.png)
+!["Screenshot of LightBnB page shows login form "](https://github.com/workuseifu1/LightBnB/blob/master/imgs/login.png)
+!["Screenshot of LightBnB page shows signup form"](https://github.com/workuseifu1/LightBnB/blob/master/imgs/signup.png)
